@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3036"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   enable-background="new"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs3038">
+    <linearGradient
+       id="linearGradient5580">
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:1;"
+         offset="0"
+         id="stop5582" />
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:0;"
+         offset="1"
+         id="stop5584" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3960">
+      <stop
+         style="stop-color:#ffae6a;stop-opacity:1;"
+         offset="0"
+         id="stop3962" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3964" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3044" />
+    <filter
+       id="filter3052"
+       inkscape:label="Evanescent"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3054"
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3056"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic" />
+      <feComposite
+         id="feComposite3058"
+         in2="result7"
+         operator="in"
+         in="result6"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3060" />
+      <feGaussianBlur
+         id="feGaussianBlur3062"
+         result="result6"
+         stdDeviation="3"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3064"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite3066"
+         in2="result7"
+         operator="in"
+         in="result6" />
+    </filter>
+    <filter
+       id="filter3110"
+       inkscape:label="Frost"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Flake-like white splotches"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3112"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.143" />
+      <feColorMatrix
+         id="feColorMatrix3114"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3"
+         result="result1" />
+      <feComposite
+         id="feComposite3116"
+         in2="SourceAlpha"
+         operator="in" />
+      <feMorphology
+         id="feMorphology3118"
+         operator="dilate"
+         radius="2.7"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence3120"
+         numOctaves="2"
+         baseFrequency="0.121"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap3122"
+         in2="result91"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="A"
+         scale="10"
+         result="result4" />
+      <feFlood
+         id="feFlood3124"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="result92" />
+      <feComposite
+         id="feComposite3126"
+         in2="result4"
+         result="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite3128"
+         in2="SourceGraphic"
+         in="result2"
+         operator="over" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3960"
+       id="linearGradient3966"
+       x1="-34.829929"
+       y1="249.78103"
+       x2="657.78811"
+       y2="249.78103"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3982">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend3984" />
+    </filter>
+    <inkscape:perspective
+       id="perspective4027"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3982-0">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend3984-6" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3960"
+       id="linearGradient5586"
+       x1="-429.90088"
+       y1="459.7558"
+       x2="-107.47522"
+       y2="459.7558"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0716149,0,0,0.38445471,-146.42025,-459.80763)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0048828"
+     inkscape:cx="374.00486"
+     inkscape:cy="677.24871"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="923"
+     inkscape:window-x="319"
+     inkscape:window-y="111"
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata3041">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="opacity:0.13043478">
+    <rect
+       style="opacity:1;fill:#916f6f;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3110)"
+       id="rect3046"
+       width="513.49268"
+       height="33.834793"
+       x="50.752186"
+       y="207.48756"
+       ry="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="filter:url(#filter3982)">
+    <rect
+       style="fill:url(#linearGradient3966);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3052)"
+       id="rect3050"
+       width="577.1817"
+       height="54.73275"
+       x="22.888241"
+       y="222.41466"
+       transform="matrix(1,0,0,0.15042642,0,178.87015)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3986"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1,0,0,0.78740801,417.95918,56.319622)"><flowRegion
+         id="flowRegion3988"><rect
+           id="rect3990"
+           width="398.05637"
+           height="54.73275"
+           x="30.849369"
+           y="139.81796" /></flowRegion><flowPara
+         id="flowPara3992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono">varfu</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="nav"
+     style="opacity:0.1563786">
+    <rect
+       style="fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3982)"
+       id="rect3994"
+       width="151.26141"
+       height="352.27988"
+       x="581.16229"
+       y="76.12896"
+       transform="matrix(1,0,0,2.3159134,-2.9854227,-53.822137)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="nav text">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3998-0"
+       style="font-size:40px;font-style:normal;font-weight:normal;opacity:0.13043476;fill:#f57900;fill-opacity:1;stroke:none;filter:url(#filter3982-0);font-family:Bitstream Vera Sans"
+       transform="translate(145.96285,87.505468)"><flowRegion
+         id="flowRegion4000-5"><rect
+           id="rect4002-9"
+           width="245.7998"
+           height="128.37318"
+           x="302.52283"
+           y="267.19601"
+           style="fill:#f57900" /></flowRegion><flowPara
+         id="flowPara4004-2"
+         style="font-size:18px">Presence</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5532"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(1.4953568,0,0,1.4953568,-293.48869,-64.936709)"><flowRegion
+         id="flowRegion5534"><rect
+           id="rect5536"
+           width="86.955032"
+           height="175.66011"
+           x="591.11371"
+           y="127.87627"
+           style="font-size:14px"
+           ry="0.50374508" /></flowRegion><flowPara
+         id="flowPara5538"
+         style="font-family:verdana;-inkscape-font-specification:verdana">Presence</flowPara><flowPara
+         style="font-family:verdana;-inkscape-font-specification:verdana"
+         id="flowPara5542" /><flowPara
+         style="font-family:verdana;-inkscape-font-specification:verdana;font-size:9.36231406"
+         id="flowPara5544">Stuff</flowPara><flowPara
+         style="font-family:verdana;-inkscape-font-specification:verdana;font-size:9.36231406"
+         id="flowPara5546">bout</flowPara><flowPara
+         style="font-family:verdana;-inkscape-font-specification:verdana;font-size:9.36231406"
+         id="flowPara5548">contac</flowPara></flowRoot>    <rect
+       style="fill:url(#linearGradient5586);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5552"
+       width="667.94177"
+       height="262.83704"
+       x="-1037.009"
+       y="-414.4707"
+       transform="matrix(-9.5571665e-4,-0.99999954,-0.99961461,0.02776031,0,0)" />
+  </g>
+</svg>
