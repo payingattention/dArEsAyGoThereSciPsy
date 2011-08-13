@@ -9,6 +9,6 @@
   
 ###(ccc) completely creative commons
 
-like?  
+*like?  
 \+ If you could help organize, speak freely. Let us advance with others escaping intellectual property.  
-\+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.  
+\+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.*  
