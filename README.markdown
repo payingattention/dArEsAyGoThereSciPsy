@@ -3,7 +3,7 @@
 * * *
 ###i open source designs because locking art disactions understanding|seeing|being drawn & reaching
 * * *
-###pic gallery | slideshow | high quality image PREVIEWS  
+###pic gallery | slideshow | high quality image ~ *PREVIEWS*  
 - https://picasaweb.google.com/117274546554081384648/ProDesignsInkscapeInspired
 - https://picasaweb.google.com/117274546554081384648/SocialDesignsInkscapeInspired
  
