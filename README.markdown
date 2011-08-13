@@ -1,8 +1,8 @@
-###sharing design source files in open source formats. #superstruggle
-
+##sharing design source files in open source formats. #superstruggle
+- - -
 ###i open source designs because locking art disactions understanding|seeing|being drawn to reaching.
 
-###pic gallery | slideshow | _high quality repo image copies_
+###pic gallery | slideshow | __high quality repo image copies__
 - https://picasaweb.google.com/117274546554081384648/ProDesignsInkscapeInspired ..iterate web designs+
 - https://picasaweb.google.com/117274546554081384648/SocialDesignsInkscapeInspired ...iterate logos+
 
