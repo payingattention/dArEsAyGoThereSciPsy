@@ -6,8 +6,8 @@
 ######high quality repo image copies
 - https://picasaweb.google.com/117274546554081384648/ProDesignsInkscapeInspired ..iterate web designs+
 - https://picasaweb.google.com/117274546554081384648/SocialDesignsInkscapeInspired ...iterate logos+
-- - -
-+ If you could help organize, speak freely. Let us advance with others escaping intellectual property.
-+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.
+  
+\+ If you could help organize, speak freely. Let us advance with others escaping intellectual property.
+\+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.
 
 ###(ccc) completely creative commons
