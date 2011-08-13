@@ -8,10 +8,9 @@
  
 ###(ccc) completely creative commons
 
-*like?*  
+#####TL; DR: Ideas & Infographic Quest; Hundreds Designed, Open Sourced, Inkscape Inspired; Symbols, Websites, Logos, Signs..
+#####Protip: OPEN SVGs WITH *INKSCAPE*, after downloading orginal .svg source files.
+
+#####*like?*  
 <sup>+ If you could help organize, speak freely. Let us advance with others escaping intellectual property.</sup>  
 <sup>+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.</sup>  
-
-######TL; DR: Ideas & Infographic Quest; Hundreds Designed, Open Sourced, Inkscape Inspired; Symbols, Websites, Logos, Signs..
-######Protip: OPEN SVGs WITH *INKSCAPE*, after downloading orginal .svg source files.
-
