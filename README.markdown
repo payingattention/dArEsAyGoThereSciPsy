@@ -1,8 +1,3 @@
-*TL;DR!  
-Hundreds Designed, Open Sourced, Inkscape Inspired;  
-Symbols, Websites, Logos, Signs.  
-Idea, Infographic, Quest..*  
-  
 ##sharing design source files in open source formats. #superstruggle
 - - -
 * * *
@@ -16,4 +11,10 @@ Idea, Infographic, Quest..*
 
 *like?*  
 <sup>+ If you could help organize, speak freely. Let us advance with others escaping intellectual property.</sup>  
-<sup>+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.</sup>  
+<sup>+ If you could help organize my file titles, show me refined.. pull with github or contact sometime.</sup>
+
+*TL;DR!  
+Hundreds Designed, Open Sourced, Inkscape Inspired;  
+Symbols, Websites, Logos, Signs.  
+Ideas, Infographic, Quest..*  
+
