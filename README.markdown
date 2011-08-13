@@ -1,7 +1,7 @@
-*TL; DR!
-Hundreds Designed, Open Sourced, Inkscape Inspired;
-Symbols, Websites, Logos, Signs.
-Idea, Infographic, Quest.*
+*TL; DR!  
+Hundreds Designed, Open Sourced, Inkscape Inspired;  
+Symbols, Websites, Logos, Signs.  
+Idea, Infographic, Quest.*  
   
 ##sharing design source files in open source formats. #superstruggle
 - - -
