@@ -3,9 +3,11 @@
 ###i open source designs because locking art disactions understanding|seeing|being drawn to reaching
 * * *
 ###pic gallery | slideshow :
-#####high quality gallery pics, same as repo
+#####high quality image previews
 - https://picasaweb.google.com/117274546554081384648/ProDesignsInkscapeInspired ..iterate web designs+
 - https://picasaweb.google.com/117274546554081384648/SocialDesignsInkscapeInspired ...iterate logos+
+  
+####__*OPEN SVGs with Inkscape*__  
   
 ###(ccc) completely creative commons
 
