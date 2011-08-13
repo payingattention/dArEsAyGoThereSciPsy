@@ -1,11 +1,11 @@
-\*TL;DR!  
+*TL;DR!  
 Hundreds Designed, Open Sourced, Inkscape Inspired;  
 Symbols, Websites, Logos, Signs.  
 Idea, Infographic, Quest..*  
   
 ##sharing design source files in open source formats. #superstruggle
 - - -
-#####Protip: After downloading orginal .svg source files, open SVG's with *Inkscape* = powerful free tool
+__protip__: After downloading orginal .svg source files, open SVG's with *Inkscape* = powerful free tool  
 * * *
 ###i open source designs because locking art disactions understanding|seeing|being drawn & reaching
 * * *
