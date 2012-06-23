@@ -4,7 +4,7 @@ sharing originals in open source formats. is a #superstruggle
 * * *
 ###open source designs because locking art will not free yourself to let other people free.
 * * *
-I need a tool to make previews converting SVG format images to web-friendly PNG or JPG automatically, and til true open graphics places exist, I need help to provide better previews.
+I need a tool to make previews converting SVG format images to web-friendly PNG or JPG automatically, and til true open/free infographic-friendly places exist, I need help to provide better previews.
 
 *like?*  
 <sup>+ If you could help organize, speak freely.</sup>  
