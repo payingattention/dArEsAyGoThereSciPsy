@@ -1,6 +1,6 @@
-lots of contexts from professional ideawork to Psychology and Psy Z.
+##lots of contexts from professional ideawork to Psychology and Psy Z.
 
-##sharing originals in open source formats. is a #superstruggle
+sharing originals in open source formats. is a #superstruggle
 * * *
 ###open source designs because locking art will not free yourself to let other people free.
 * * *
