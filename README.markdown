@@ -1,8 +1,13 @@
-##lots of contexts from professional ideawork to Psychology and Psy Z.
+##psychologically open source and superscipsytechlogical; psychologization of growing up with Sci , Tech and Psy Z
+
+##lots of contexts growing from professional ideawork, to Psychology and Psy Z.
 
 sharing originals in open source formats. is a #superstruggle
+
+Psychogically open superscipsy ideawork and past.
+
 * * *
-###open source designs because locking art will not free yourself to let other people free.
+###ALL Public Domain and Open Source because locking art will not free yourself to let other people free.
 * * *
 I need a tool to make previews converting SVG format images to web-friendly PNG or JPG automatically, and til true open/free infographic-friendly places exist, I need help to provide better previews.
 
